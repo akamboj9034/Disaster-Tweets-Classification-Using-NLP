@@ -14,11 +14,7 @@ actively ongoing Kaggle competition. We want to explore possible predictors and 
 to solve this classification problem. The dataset has 10,000 tweets that were hand classified[1]. We will explore
 Naïve Bayes, LSTM and CNN classifiers to solve this problem.
 
-<br/>
-<br/>
 
-<b>Below is the kaggle score we achieved </b>
-<img src="results/KaggleScore.png"> </img>
 
 <br/>
 <br/>
